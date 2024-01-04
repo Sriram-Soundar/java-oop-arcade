@@ -25,14 +25,14 @@ Welcome to the Object-Oriented Arcade, a Java-based project that showcases the f
    git clone https://github.com/your-username/java-oop-arcade.git
 
 2. Navigate to the project directory:
-  ```bash
-  cd java-oop-arcade
+   ```bash
+   cd java-oop-arcade
 
-3. Compile the Java files.
+3. Compile the Java files:
    ```bash
    javac *.java
 
-3. Run the arcade application.
+4. Run the arcade application:
    ```bash
    java Main
    
